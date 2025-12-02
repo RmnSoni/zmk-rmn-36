@@ -1,0 +1,9 @@
+file_format: "1"
+id: rmn36
+name: RMN36
+type: shield
+url: https://github.com/RmnSoni/zmk-rmn-36
+requires: [pro_micro]
+features:
+  - keys
+siblings: []
